@@ -38,3 +38,6 @@ alert( result );
 * English(intermediate). My English is not good enough for me, and i am practising it. It's easy to read news in English and learn new interface, but it's more difficult to speak. This CV i wrote without using the translator:)
 * Russian (native)
 * Ukrainian (second native)
+
+## My projects
+* My CV https://github.com/DenisPobeynich/rsschool-cv/blob/gh-pages/cv.md
