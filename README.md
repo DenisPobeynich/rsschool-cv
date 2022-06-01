@@ -1,1 +1,1 @@
-https://github.com/DenisPobeynich/rsschool-cv/tree/rsschool-cv-html
+https://DenisPobeynich.github.io/rsschool-cv/
