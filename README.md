@@ -1,1 +1,1 @@
-https://github.com/DenisPobeynich/rsschool-cv/blob/gh-pages/cv.md
+https://DenisPobeynich.github.io/rsschool-cv/cv
