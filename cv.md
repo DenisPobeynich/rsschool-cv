@@ -1,8 +1,8 @@
 # Hello, world! My name is Denis Pobeynich
 
-## *Beginner Frontend Developer*
+## Beginner Frontend Developer
 
-#### Contact information:
+#### *Contact information:*
   * Phone: +7 (916) 766 01-51
   * E-mail: pobeynich.d@gmail.com
   * Telegram: @Trumpeter28
