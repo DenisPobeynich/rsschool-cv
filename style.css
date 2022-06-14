@@ -1,0 +1,150 @@
+/*Обнуление*/
+*{padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;-moz-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+/*--------------------*/
+
+body{
+	font-family: "Poppins";
+	max-width: 660px;
+	margin: auto;
+}
+.page-header{
+	height: 50px;
+	background-color: grey;
+	color: white;
+}
+.block-left{
+	padding: 30px;
+	width: 40%;
+	height: 850px;
+	overflow: auto;
+	float: left;
+	background: url('img/backgrounds/_Path_ (5).png') 0 82%/110px auto no-repeat, black;
+	color: white;
+	font-size: 8px;
+	overflow: visible;
+}
+.block-right{
+	width: 60%;
+	font-size: 12px;
+	overflow: auto;
+	letter-spacing: 2px;
+	padding: 45px;
+	padding-top: 180px;
+	background: url('img/backgrounds/_Path_ (2).png') 20% 20%/400px 2px no-repeat, url('img/backgrounds/_Path_ (3).png') 330px -130px/auto no-repeat, url('img/backgrounds/_Path_ (4).png') right 115px/7% 3% no-repeat;
+}
+.img_block{
+	margin: 0 0 0 -30px;
+	min-width: 264px;
+	min-height: 250px;
+	background: url('img/msg3.jpg') 0 0/ 300px auto no-repeat;
+	overflow: hidden;
+}
+h1{
+	font-size: 31px;
+	letter-spacing: 6px;
+	font-weight: 500;
+	text-transform: uppercase;
+	min-width: 500px;
+	margin-top: 20px;
+}
+h2{
+	min-width: 500px;
+	font-size: 10px;
+	letter-spacing: 6px;
+	font-weight: 300;
+	text-transform: uppercase;
+	padding: 30px 0 30px 0;
+}
+h4{
+	font-size: 13px;
+	letter-spacing: 2px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 20px 0 20px 0;	
+}
+.surname_color{
+	color: black;
+}
+.description{
+	width: 207px;
+	height: 64px;
+	font-size: 7px;
+	letter-spacing: 2px;
+	line-height: 10px;
+	font-weight: 200;
+}
+.my_contacts li:nth-child(1){
+	background: url(img/backgrounds/site.png) left/6% no-repeat;
+	padding: 0 0 0 20px;
+}
+.my_contacts li:nth-child(2){
+	background: url(img/backgrounds/country.png) left/5% no-repeat;
+	padding: 0 0 0 20px;
+}
+.my_contacts li:nth-child(3){
+	background: url(img/backgrounds/phone.png) left/6% no-repeat;
+	padding: 0 0 0 20px;
+}
+.my_contacts li:nth-child(4){
+	background: url(img/backgrounds/mail.png) left/6% no-repeat;
+	padding: 0 0 0 20px;
+}
+.my_contacts{
+	margin: 210px 0 100px 0;
+	line-height: 22px;
+	font-size: 8px;
+	font-weight: 100;
+	color: white;
+	text-decoration: none;
+}
+ul{
+	letter-spacing: 1px;
+}
+.list{
+	font-weight: 600;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.skills{
+	font-weight: 600;
+}
+.my_skills{
+	line-height: 19px;
+}
+.languages{
+	line-height: 19px;
+	letter-spacing: 1px;
+}
+.page-footer{
+	height: 50px;
+	background: #000;
+}
+.rs_img{
+	padding:13px 10px 10px 20px;
+	text-align: left;
+	color: white;
+	font-size: 10px;
+}
+.date{
+	text-align: center;
+	color: white;
+	margin: -30px;
+}
+.gh{
+	margin: 10px 10px 10px 35px;
+	color: white;
+}
